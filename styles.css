@@ -87,6 +87,8 @@ body{
 .media-buttons .link >i:hover{
     background-color: #f4f4f4;
     color: #333;
+    border: none;
+    border-radius: 50%;
 }
 
 .profile-card .buttons{
@@ -113,6 +115,7 @@ body{
     display: flex;
     align-items: center;
     margin-top: 25px;
+    cursor: pointer;
 }
 .analytics .data{
     display: flex;
